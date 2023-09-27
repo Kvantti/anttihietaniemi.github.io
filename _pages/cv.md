@@ -9,32 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* M.A. in New Media Design and Production, New Media Design and Production/Master’s Programme in New Media. Aalto University School of Arts, Design and Architecture, Espoo, Finland, 2018
+* B.A. in Graphic Design/Visual communication. Lahti Polytechnic, Lahti, Finland, 2008
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2023 – Present
+  * University Lecturer, Dept. of Art and Media, Aalto ARTS, Helsinki & Espoo.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2020 – July 2023
+  * University Teacher, Dept. of Art and Media, Aalto ARTS, Helsinki & Espoo. Teaching various digital media courses in visual communication design BA programme.  
+
+* Jan 2015 – Feb 2020
+  * Hourly based teacher, Dept. of Art and Media, Aalto ARTS, Helsinki & Espoo. Teaching various digital media courses in visual communication design BA programme. See “Teaching merits”.
+
+* Dec 2016 – Jul 2020
+  * Service Designer for Roger Studio, Helsinki.
+  * Planning and designing customer experience development for Finnish companies in fields of business, industry, and retail, using methods such as co-creation workshops, business design, front-end design and other methods.
+
+* Dec 2008 – Aug 2018
+  * Motion designer and founder, BeigeHarmaa Gbr, Berlin Germany.
+  * Production of motion identities, live event visuals, and interactive installations together with co-founder Sami Smith.
+ 
+* Nov 2008 – Aug 2011
+  * Graphic designer for design team. Sulake Oy, Helsinki.
+  * Internal design team member for Habbo Hotel virtual world, creating global campaigns for virtual products and services.
+
+* Dec 2005 – Present
+  * Employee and member of Lilith cooperative, Porvoo. 
+  * Working as an employed designer of a cooperative for creatives.
+
+* 1999-2000: Web Editor & Media Assistant 
+  * University of Turku, Muu Media Base Helsinki
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching Digital Media
+* Digital Design
+  * 3D Motion Graphics
+  * 2D Motion Graphics
+  * Live Event Design and Production
+* Live Audiovisual Performance
 
 Publications
 ======
@@ -54,6 +74,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other academic merits
 ======
-* Currently signed in to 43 different slack teams
+* Participation in the admissions committee for the Bachelor's Programme in Design since 2021.
+* Participation in the recruitment committee for a university teacher in visual communication design in April 2022.
+* Invitation to teach a workshop at the Polish-Japanese Academy of Information Technology in Warsaw, Poland in Mar 2023.
+* Evaluation of 20+ bachelors and masters theses since 2019.
+
