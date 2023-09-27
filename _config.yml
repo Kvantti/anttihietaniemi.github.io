@@ -316,7 +316,7 @@ compress_html:
 
 languages: ["en", "fi"]
 default_lang: "en"
-exclude_from_localization: ["assets/css", "assets/img"]
+exclude_from_localization: ["assets/css", "assets/fonts", "assets/js", "images", "files", "markdown_generator", "talkmap", "_includes", "_sass"]
 parallel_localization: true
 
 sass:
